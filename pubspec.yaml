@@ -22,6 +22,17 @@ flutter:
 
   assets:
      - images/
+  fonts:
+    - family: LongCang-Regular
+      fonts:
+        - asset: fonts/LongCang-Regular.ttf
+
+    - family: PlayfairDisplay VariableFont wght
+      fonts:
+        - asset: fonts/PlayfairDisplay-VariableFont_wght.ttf
+
+
+
 
 
 
